@@ -175,13 +175,8 @@ MonoBehaviour:
   AttackStopDistanceRatio: 0.08
   RandomHitSparks:
   - {fileID: 7635230255058315795, guid: 7593818fba43c7f4c8372299ce5e893f, type: 3}
-  - {fileID: 7635230255058315795, guid: 7593818fba43c7f4c8372299ce5e893f, type: 3}
-  - {fileID: 7635230255058315795, guid: 7593818fba43c7f4c8372299ce5e893f, type: 3}
-  - {fileID: 7635230255058315795, guid: 7593818fba43c7f4c8372299ce5e893f, type: 3}
   OnDetectVfx:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8855434715677272938, guid: 1bc9e4f49c67a6a41af3e7cb3d30bb43, type: 3}
   OnDetectSfx: {fileID: 8300000, guid: 25722734eeccba042a18e26e376ca542, type: 3}
   MovementSound: {fileID: 0}
   PitchDistortionMovementSpeed:
